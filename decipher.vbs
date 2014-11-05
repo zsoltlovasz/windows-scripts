@@ -23,3 +23,4 @@ Do While Not searchCmd.StdOut.AtEndOfStream
 		End If
 	End If
 Loop
+
